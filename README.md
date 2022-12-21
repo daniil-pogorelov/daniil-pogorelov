@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Daniil (xqhefner)
+- 👀 I’m interested in code
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on some funny discord bots porojects.
+- 📫 How to reach me: Discord - xqhefner#1423
