@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm currently studying engineering at ISEP in Portugal, with a strong passion for **backend development**. I enjoy designing and building **robust, scalable systems** that quietly power applications behind the scenes.
+I'm currently studying engineering at [ISEP](https://github.com/Departamento-de-Engenharia-Informatica) in Portugal. I enjoy designing and building **robust, scalable systems** that quietly power applications behind the scenes.
 
 My interests include:
 
