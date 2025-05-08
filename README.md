@@ -50,7 +50,6 @@ If you're working on a project that involves:
 ## 📫 Reach Me
 
 🗨️ Discord: `xqhefner`  
-🌐 [GitHub Profile](https://github.com/daniil-pogorelov)
 
 ---
 
