@@ -43,7 +43,7 @@ If you're working on a project that involves:
 - Database structure  
 - System performance  
 
-…I’d love to learn from and contribute to your work. Let’s build something awesome together!
+…I’d love to learn from and contribute to your work. Let’s build something cool!
 
 ---
 
