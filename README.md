@@ -21,7 +21,7 @@ My interests include:
 ## 🛠️ My Tech Stack
 
 **Languages:** Python, Java, C, SQL, HTML, CSS, Swift (learning)  
-**Tools & Tech:** Git, Docker, VS Code, JetBrains IDEs, MySQL, SQLite  
+**Tools & Tech:** Git, Docker, VS Code, JetBrains IDEs, NVIM, MySQL, SQLite
 **Concepts:** REST APIs, OOP, DDD, database normalization
 
 ---
