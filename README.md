@@ -28,7 +28,7 @@ My interests include:
 
 ## 🚧 Current Project
 
-⏩ [**Better-Tab**](https://github.com/daniil-pogorelov/Better-Tab)  
+⏩ [**BetterTab**](https://github.com/daniil-pogorelov/Better-Tab)  
 A macOS app that enhances the native Cmd+Tab switcher experience.  
 Built in Swift, focused on usability and smooth transitions.
 
